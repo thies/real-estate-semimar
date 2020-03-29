@@ -21,7 +21,7 @@ Probably ZOOM Webinars?
 
 *The very first seminar on April 2nd, 2020*
 
-If you would like to present ot participate, please sign up for  [Registration form for participants and presenters](https://forms.gle/dEXQicjaLnHRB9Nr5)
+If you would like to present or participate, please sign up for  [Registration form for participants and presenters](https://forms.gle/dEXQicjaLnHRB9Nr5)
 
 
 ### Support or Contact
