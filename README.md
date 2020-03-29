@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Real Estate Research Seminars
 
-You can use the [editor on GitHub](https://github.com/thies/real-estate-semimar/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+As we are collectively embracing online meetings... Shall we come together for regular real estate research seminars? First Thursday of the month, 4-5 pm UK time?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### The setup
 
-### Markdown
+This is up for debate, but my suggestion would be
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- The seminars should be short and interactive: 20-25 minutes for speaker (with few questions during presentation). Questions will be colleceted during the presentation in a text chat. 25 minutes of questions and discussion. 
+- A moderator will (try to) keep things orderly, civil and on track.
+- This is open to academics and researchers from all over the world.
+- We won't record the seminars. Presenters don't need to be afraid that preliminary results or comments will remain online forever.
+- Junior researchers and students are very welcome to attend. 
+- Papers should be developed enough to be worth discussing - but not overcooked. Ideally, feedback should still be meaningful.
 
-```markdown
-Syntax highlighted code block
+### Infrastructure
 
-# Header 1
-## Header 2
-### Header 3
+Probably ZOOM Webinars?
 
-- Bulleted
-- List
+### Schedule
 
-1. Numbered
-2. List
+*The very first seminar on April 2nd, 2020*
 
-**Bold** and _Italic_ and `Code` text
+If you would like to present ot participate, please sign up for  [Registration form for participants and presenters](https://forms.gle/dEXQicjaLnHRB9Nr5)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thies/real-estate-semimar/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thies Lindenthal, [email](mailto:htl24@cam.ac.uk) or [DM on twitter](https://twitter.com/thieslindenthal)
