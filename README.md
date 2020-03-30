@@ -28,7 +28,7 @@ Those who register (below) will receive an email invitation with a link to the v
 
 ### Registration
 
-If you would like to present or participate, please sign up for  [Registration form for participants and presenters](https://forms.gle/dEXQicjaLnHRB9Nr5)
+If you would like to present or participate, please sign up for  **[Registration form for participants and presenters](https://forms.gle/dEXQicjaLnHRB9Nr5)**
 
 
 ### Support or Contact
