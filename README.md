@@ -1,5 +1,3 @@
-![Header Image](IMG_20141216_144539.jpg)
-
 ## Real Estate Research Seminars
 
 As we are collectively embracing online meetings... Shall we come together for regular real estate research seminars? First Thursday of the month, 4-5 pm UK time?
@@ -36,3 +34,5 @@ If you would like to present or participate, please sign up for  **[Registration
 ### Support or Contact
 
 Thies Lindenthal, [email](mailto:htl24@cam.ac.uk) or [DM on twitter](https://twitter.com/thieslindenthal)
+
+![LE Image](IMG_20191118_092700.jpg)
