@@ -1,3 +1,5 @@
+![Header Image](IMG_20141216_144539.jpg)
+
 ## Real Estate Research Seminars
 
 As we are collectively embracing online meetings... Shall we come together for regular real estate research seminars? First Thursday of the month, 4-5 pm UK time?
