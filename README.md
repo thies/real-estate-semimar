@@ -19,11 +19,14 @@ This is up for debate, but my suggestion would be
 
 ### Infrastructure
 
-Probably ZOOM Webinars?
+Probably ZOOM Webinars? 
+Those who register (below) will receive an email invitation with a link to the virtual seminar room.
 
 ### Schedule
 
 **The very first seminar on April 2nd, 2020, 4-5 pm UK time**
+
+### Registration
 
 If you would like to present or participate, please sign up for  [Registration form for participants and presenters](https://forms.gle/dEXQicjaLnHRB9Nr5)
 
