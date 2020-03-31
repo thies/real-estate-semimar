@@ -8,7 +8,7 @@ Do get in contact if you would like to present, attend or help organising.
 
 ### The setup
 
-This is up for debate, but my suggestion would be
+This is up for debate, but for now try the following:
 
 - The seminars should be short and interactive: 20-25 minutes for speaker (with few questions during presentation). Questions will be colleceted during the presentation in a text chat. 25 minutes of questions and discussion. 
 - A moderator will (try to) keep things orderly, civil and on track.
@@ -17,18 +17,20 @@ This is up for debate, but my suggestion would be
 - Junior researchers and students are very welcome. 
 - Papers should be developed enough to be worth discussing - but not overcooked. Ideally, feedback should still be meaningful.
 
+### Schedule
+
+**April 2nd, 2020, 4-5 pm UK time**
+
+**[Arpit Gupta](https://www.stern.nyu.edu/faculty/bio/arpit-gupta)** will present *"Take the Q Train: Value Capture of Public Infrastructure Projects"*
+
+To participate, sign up here:  **[Registration form for participants](https://forms.gle/dEXQicjaLnHRB9Nr5)**
+
+
 ### Infrastructure
 
 Probably ZOOM Webinars? 
 Those who register (below) will receive an email invitation with a link to the virtual seminar room.
 
-### Schedule
-
-**The very first seminar on April 2nd, 2020, 4-5 pm UK time**
-
-### Registration
-
-If you would like to present or participate, please sign up for  **[Registration form for participants and presenters](https://forms.gle/dEXQicjaLnHRB9Nr5)**
 
 
 ### Support or Contact
