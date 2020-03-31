@@ -21,7 +21,8 @@ This is up for debate, but for now try the following:
 
 **April 2nd, 2020, 4-5 pm UK time**
 
-- **[Arpit Gupta](https://www.stern.nyu.edu/faculty/bio/arpit-gupta)** will present *"Take the Q Train: Value Capture of Public Infrastructure Projects"* To participate, sign up here:  **[Registration form for participants](https://forms.gle/dEXQicjaLnHRB9Nr5)** Invitations with a link to the ZOOM webinar will be sent by email.
+- **[Arpit Gupta](https://www.stern.nyu.edu/faculty/bio/arpit-gupta)** will present **"Take the Q Train: Value Capture of Public Infrastructure Projects"**. 
+To participate, sign up here:  **[Registration form for participants](https://forms.gle/dEXQicjaLnHRB9Nr5)** Invitations with a link to the ZOOM webinar will be sent by email.
 
 
 ### Support or Contact
