@@ -21,15 +21,18 @@ This is up for debate, but for now try the following:
 
 **April 2, 2020, 4-5 pm UK time**
 
-- **[Arpit Gupta](https://www.stern.nyu.edu/faculty/bio/arpit-gupta)** will present **"Take the Q Train: Value Capture of Public Infrastructure Projects"**. 
+- **[Arpit Gupta*](https://www.stern.nyu.edu/faculty/bio/arpit-gupta)**, **[Stijn Van Nieuwerburgh](http://people.stern.nyu.edu/svnieuwe/)** and **[Constantine Kontokosta](https://engineering.nyu.edu/faculty/constantine-kontokosta)**: **["Take the Q Train: Value Capture of Public Infrastructure Projects"](https://www.nber.org/papers/w26789)**
 
 **April 16, 2020, 4-5 pm UK time**
 
-- **[Matthijs Korevaar & Marc Francke](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3205780)** will present **["Housing Markets in a Pandemic: Evidence from Historical Outbreaks"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3566909)**
+- **[Matthijs Korevaar*](https://sites.google.com/view/matthijskorevaar/home)** and **[Marc Francke](https://www.uva.nl/en/profile/f/r/m.k.francke/m.k.francke.html?cb)**: **["Housing Markets in a Pandemic: Evidence from Historical Outbreaks"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3566909)**
 
 **April 30, 2020, 4-5 pm UK time**
 
-- **[Andersen, Badarinza, Liu, Marx, and Ramadorai: "Reference dependence in the housing market"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3396506)**. 
+- **[Steffen Andersen](https://www.cbs.dk/en/research/departments-and-centres/department-of-finance/staff/sanfi)**, **[Christian Badarinza*](http://www.badarinza.net/)**, **[Lu Liu](https://www.imperial.ac.uk/people/l.liu16)**, **[Julie Marx](https://www.cbs.dk/en/research/departments-and-centres/department-of-finance/staff/phd-fellow)** and **[Tarun Ramadorai](http://www.tarunramadorai.com/)**: **["Reference dependence in the housing market"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3396506)**
+
+
+\* presenting author
 
 ### Sign up
 
