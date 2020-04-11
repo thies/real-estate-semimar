@@ -22,16 +22,77 @@ This is up for debate, but for now try the following:
 **April 2, 2020, 4-5 pm UK time**
 
 - **[Arpit Gupta](https://www.stern.nyu.edu/faculty/bio/arpit-gupta)** will present **"Take the Q Train: Value Capture of Public Infrastructure Projects"**. 
-To participate, sign up here:  **[Registration form for participants](https://forms.gle/dEXQicjaLnHRB9Nr5)** Invitations with a link to the ZOOM webinar will be sent by email.
 
 **April 16, 2020, 4-5 pm UK time**
 
-- **[Matthijs Korevaar & Marc Francke](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3205780)** will present **["Housing Markets in a Pandemic: Evidence from Historical Outbreaks"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3566909)**. 
-To participate, sign up here:  **[Registration form for participants](https://docs.google.com/forms/d/e/1FAIpQLScbEy66OUacvzrQuojWGKb2YdUYs7lbC2viPf5B0rgrkTlKgg/viewform?usp=pp_url)** Invitations with a link to the ZOOM webinar will be sent by email.
+- **[Matthijs Korevaar & Marc Francke](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3205780)** will present **["Housing Markets in a Pandemic: Evidence from Historical Outbreaks"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3566909)**
 
 **April 30, 2020, 4-5 pm UK time**
 
 - **[Andersen, Badarinza, Liu, Marx, and Ramadorai: "Reference dependence in the housing market"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3396506)**. 
+
+### Sign up
+
+Participation is free and all are welcome: Academics, students, industry practitioners.
+
+We will send invitations to upcoming seminars by email. To participate, sign up to our mailing list (we won't send any spam not related to this seminar series).
+
+<!-- Begin Mailchimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<style type="text/css">
+	#mc-embedded-subscribe-form input[type=checkbox]{display: inline; width: auto;margin-right: 10px;}
+	#mergeRow-gdpr {margin-top: 20px;}
+	#mergeRow-gdpr fieldset label {font-weight: normal;}
+	#mc-embedded-subscribe-form .mc_fieldset{border:none;min-height: 0px;padding-bottom:0px;}
+</style>
+<div id="mc_embed_signup">
+<form action="https://cam.us19.list-manage.com/subscribe/post?u=eac59a7c36910d57f484e2eb8&amp;id=45f9af550f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	<h2>Subscribe</h2>
+<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<div class="mc-field-group">
+	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+</label>
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+</div>
+<div class="mc-field-group">
+	<label for="mce-FNAME">First Name </label>
+	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+</div>
+<div class="mc-field-group">
+	<label for="mce-LNAME">Last Name </label>
+	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
+</div>
+<div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group">
+    <div class="content__gdpr">
+        <label>Marketing Permissions</label>
+        <p>Please select all the ways you would like to hear from Virtual Real Estate Seminar:</p>
+        <fieldset class="mc_fieldset gdprRequired mc-field-group" name="interestgroup_field">
+		<label class="checkbox subfield" for="gdpr_54522"><input type="checkbox" id="gdpr_54522" name="gdpr[54522]" value="Y" class="av-checkbox "><span>Email</span> </label>
+        </fieldset>
+        <p>You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.</p>
+    </div>
+    <div class="content__gdprLegal">
+        <p>We use Mailchimp as our marketing platform. By clicking below to subscribe, you acknowledge that your information will be transferred to Mailchimp for processing. <a href="https://mailchimp.com/legal/" target="_blank">Learn more about Mailchimp's privacy practices here.</a></p>
+    </div>
+</div>
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_eac59a7c36910d57f484e2eb8_45f9af550f" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<!--End mc_embed_signup-->
+
 
 ### Support or Contact
 
