@@ -29,7 +29,9 @@ To participate, sign up here:  **[Registration form for participants](https://fo
 - **[Matthijs Korevaar & Marc Francke](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3205780)** will present **["Housing Markets in a Pandemic: Evidence from Historical Outbreaks"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3566909)**. 
 To participate, sign up here:  **[Registration form for participants](https://docs.google.com/forms/d/e/1FAIpQLScbEy66OUacvzrQuojWGKb2YdUYs7lbC2viPf5B0rgrkTlKgg/viewform?usp=pp_url)** Invitations with a link to the ZOOM webinar will be sent by email.
 
+**April 30, 2020, 4-5 pm UK time**
 
+- **[Andersen, Badarinza, Liu, Marx, and Ramadorai: "Reference dependence in the housing market"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3396506)**. 
 
 ### Support or Contact
 
