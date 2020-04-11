@@ -53,7 +53,7 @@ We will send invitations to upcoming seminars by email. To participate, sign up 
 <div id="mc_embed_signup">
 <form action="https://cam.us19.list-manage.com/subscribe/post?u=eac59a7c36910d57f484e2eb8&amp;id=45f9af550f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Subscribe</h2>
+	<b>Subscribe</b>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
