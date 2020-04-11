@@ -1,6 +1,6 @@
-## Real Estate Research Seminars
+## Virtual Real Estate Seminars
 
-As we are collectively embracing online meetings... Shall we come together for regular real estate research seminars? Thursdays, fortnightly, 4-5 pm UK time?
+As we are collectively embracing online meetings... Shall we come together for regular real estate seminars? Thursdays, fortnightly, 4-5 pm UK time?
 
 This initiative is still very malleable. Others are working on similar ideas and we should be able to find a good setup that works for most of us. Let's get the ball rolling and work out organisational details along the way? In the end, a good seminar is nothing but an interesting paper meeting a good audience.
 
