@@ -29,7 +29,7 @@ This is up for debate, but for now try the following:
 
 **April 30, 2020, 4-5 pm UK time**
 
-**[Will Larson*](http://williamlarson.com/), Jessica Shui (FHFA), [Morris Davis](https://www.business.rutgers.edu/faculty/morris-davis)** and **Stephen Oliner (AEI)**: **[The Price of Residential Land for Counties, ZIP codes, and Census Tracts in the United States](https://www.fhfa.gov/PolicyProgramsResearch/Research/Pages/wp1901.aspx)**
+- **[Will Larson*](http://williamlarson.com/), Jessica Shui (FHFA), [Morris Davis](https://www.business.rutgers.edu/faculty/morris-davis)** and **Stephen Oliner (AEI)**: **[The Price of Residential Land for Counties, ZIP codes, and Census Tracts in the United States](https://www.fhfa.gov/PolicyProgramsResearch/Research/Pages/wp1901.aspx)**
 
 **May 14, 2020, 4-5 pm UK time**
 
