@@ -28,7 +28,8 @@ This is up for debate, but for now try the following:
 - **[Matthijs Korevaar*](https://sites.google.com/view/matthijskorevaar/home)** and **[Marc Francke](https://www.uva.nl/en/profile/f/r/m.k.francke/m.k.francke.html?cb)**: **["Housing Markets in a Pandemic: Evidence from Historical Outbreaks"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3566909)**
 
 **April 30, 2020, 4-5 pm UK time**
-**[Will Larson*](http://williamlarson.com/) Jessica Shui (FHFA), Morris Davis (Rutgers), Stephen Oliner (AEI)**: **[The Price of Residential Land for Counties, ZIP codes, and Census Tracts in the United States](https://www.fhfa.gov/PolicyProgramsResearch/Research/Pages/wp1901.aspx)**
+
+**[Will Larson*](http://williamlarson.com/) Jessica Shui (FHFA), [Morris Davis](https://www.business.rutgers.edu/faculty/morris-davis), Stephen Oliner (AEI)**: **[The Price of Residential Land for Counties, ZIP codes, and Census Tracts in the United States](https://www.fhfa.gov/PolicyProgramsResearch/Research/Pages/wp1901.aspx)**
 
 **May 14, 2020, 4-5 pm UK time**
 
