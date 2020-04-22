@@ -33,7 +33,7 @@ This is up for debate, but for now try the following:
 
 **May 14, 2020, 4-5 pm UK time**
 
-- **[Steffen Andersen](https://www.cbs.dk/en/research/departments-and-centres/department-of-finance/staff/sanfi)**, **[Christian Badarinza*](http://www.badarinza.net/)**, **[Lu Liu](https://www.imperial.ac.uk/people/l.liu16)**, **[Julie Marx](https://www.cbs.dk/en/research/departments-and-centres/department-of-finance/staff/phd-fellow)** and **[Tarun Ramadorai](http://www.tarunramadorai.com/)**: **["Reference dependence in the housing market"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3396506)**
+- **[Steffen Andersen](https://www.cbs.dk/en/research/departments-and-centres/department-of-finance/staff/sanfi)**, **[Cristian Badarinza*](http://www.badarinza.net/)**, **[Lu Liu](https://www.imperial.ac.uk/people/l.liu16)**, **[Julie Marx](https://www.cbs.dk/en/research/departments-and-centres/department-of-finance/staff/phd-fellow)** and **[Tarun Ramadorai](http://www.tarunramadorai.com/)**: **["Reference dependence in the housing market"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3396506)**
 
 
 \* presenting author
