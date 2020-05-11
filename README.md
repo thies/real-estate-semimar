@@ -33,6 +33,11 @@ This is up for debate, but for now try the following:
 
 **May 14, 2020, 4-5 pm UK time**
 
+- **[Amine Ouazad*](https://www.ouazad.com/)** and **[Romain Rancière](https://dornsife.usc.edu/cf/econ/econ_faculty_display.cfm?Person_ID=1076297)**: **["Market Frictions, Arbitrage, and the Capitalization of Amenities"](https://www.nber.org/papers/w25701)**
+
+
+**tba, 4-5 pm UK time**
+
 - **[Steffen Andersen](https://www.cbs.dk/en/research/departments-and-centres/department-of-finance/staff/sanfi)**, **[Cristian Badarinza*](http://www.badarinza.net/)**, **[Lu Liu](https://www.imperial.ac.uk/people/l.liu16)**, **[Julie Marx](https://www.cbs.dk/en/research/departments-and-centres/department-of-finance/staff/phd-fellow)** and **[Tarun Ramadorai](http://www.tarunramadorai.com/)**: **["Reference dependence in the housing market"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3396506)**
 
 
