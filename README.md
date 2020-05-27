@@ -19,8 +19,9 @@ This is up for debate, but for now try the following:
 - Papers should be developed enough to be worth discussing - but not overcooked. Ideally, feedback should still be meaningful.
 
 ### Schedule
+\* presenting author
 
-**tba, 4-5 pm UK time**
+**June 4, 2020, 4-5 pm UK time**
 
 - **[Steffen Andersen](https://www.cbs.dk/en/research/departments-and-centres/department-of-finance/staff/sanfi)**, **[Cristian Badarinza*](http://www.badarinza.net/)**, **[Lu Liu](https://www.imperial.ac.uk/people/l.liu16)**, **[Julie Marx](https://www.cbs.dk/en/research/departments-and-centres/department-of-finance/staff/phd-fellow)** and **[Tarun Ramadorai](http://www.tarunramadorai.com/)**: **["Reference dependence in the housing market"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3396506)**
 
@@ -40,8 +41,6 @@ This is up for debate, but for now try the following:
 
 - **[Arpit Gupta*](https://www.stern.nyu.edu/faculty/bio/arpit-gupta)**, **[Stijn Van Nieuwerburgh](http://people.stern.nyu.edu/svnieuwe/)** and **[Constantine Kontokosta](https://engineering.nyu.edu/faculty/constantine-kontokosta)**: **["Take the Q Train: Value Capture of Public Infrastructure Projects"](https://www.nber.org/papers/w26789)**
 
-
-\* presenting author
 
 ### Sign up
 
