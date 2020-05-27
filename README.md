@@ -22,7 +22,7 @@ The available slots are (4.00-5.00 pm London time):
 
 We’ll get back to you as soon as possible if your paper has been chosen for presentation. There will likely be subsequent calls for papers on a rolling basis.
 
-**#------------------------------------------------------------------------------------##**
+**#------------------------------------------------------------------------------------------##**
 
 
 ### The setup
