@@ -10,7 +10,7 @@ Do get in contact if you would like to present, attend or help organising.
 
 
 
-**#-------------------- Call for papers: June and July slots --------------------##**
+**#---- Call for papers: June and July slots ----##**
 
 We invite submissions for the seminar slots in June and July. If you'd like to present on any of the below dates, please send an  [email](mailto:carolin.schmidt@zew.de) including the title of your proposed paper, a link to the paper or an attachment, and the slot during which you'd like to present. If you're flexible, feel free to give us a preference order for all four dates.
 
@@ -24,7 +24,7 @@ Please submit your paper until Friday, June 5.
 
 We’ll get back to you as soon as possible if your paper has been chosen for presentation. There will likely be subsequent calls for papers on a rolling basis.
 
-**#------------------------------------------------------------------------------------------##**
+**#------------##**
 
 
 ### The setup
