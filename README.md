@@ -4,41 +4,41 @@ As we are collectively embracing online meetings... Shall we come together for r
 
 This initiative is still very malleable. Others are working on similar ideas and we should be able to find a good setup that works for most of us. Let's get the ball rolling and work out organisational details along the way? In the end, a good seminar is nothing but an interesting paper meeting a good audience.
 
+The series is open to academics and researchers from all over the world. Junior researchers and students are very welcome. 
+
 Do get in contact if you would like to present, attend or help organising. 
 
 ### The setup
 
 This is up for debate, but for now try the following:
 
-- The seminars should be short and interactive: 20-25 minutes for speaker (with few questions during presentation). Questions will be colleceted during the presentation in a text chat. 25 minutes of questions and discussion. 
-- A moderator will (try to) keep things orderly, civil and on track.
-- This is open to academics and researchers from all over the world.
+- The seminars should be short and interactive: 20-25 minutes for the speaker (with few questions during presentation). 25 minutes of questions and discussion. 
+-  Questions will be colleceted during the presentation in a text chat. Please use the "raise hand" function in Zoom if you'd like to ask an emergency question. 
+- A moderator will (try to) keep things orderly, civil and on track. 
 - We won't record the seminars. Presenters don't need to be afraid that preliminary results or comments will remain online forever.
-- Junior researchers and students are very welcome. 
 - Papers should be developed enough to be worth discussing - but not overcooked. Ideally, feedback should still be meaningful.
 
 ### Schedule
 
-**April 2, 2020, 4-5 pm UK time**
+**tba, 4-5 pm UK time**
 
-- **[Arpit Gupta*](https://www.stern.nyu.edu/faculty/bio/arpit-gupta)**, **[Stijn Van Nieuwerburgh](http://people.stern.nyu.edu/svnieuwe/)** and **[Constantine Kontokosta](https://engineering.nyu.edu/faculty/constantine-kontokosta)**: **["Take the Q Train: Value Capture of Public Infrastructure Projects"](https://www.nber.org/papers/w26789)**
-
-**April 16, 2020, 4-5 pm UK time**
-
-- **[Matthijs Korevaar*](https://sites.google.com/view/matthijskorevaar/home)** and **[Marc Francke](https://www.uva.nl/en/profile/f/r/m.k.francke/m.k.francke.html?cb)**: **["Housing Markets in a Pandemic: Evidence from Historical Outbreaks"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3566909)**
-
-**April 30, 2020, 4-5 pm UK time**
-
-- **[Will Larson*](http://williamlarson.com/), [Jessica Shui](https://ideas.repec.org/f/psh887.html), [Morris Davis](https://www.business.rutgers.edu/faculty/morris-davis)** and **[Stephen Oliner](https://www.aei.org/profile/stephen-d-oliner/)**: **["The Price of Residential Land for Counties, ZIP codes, and Census Tracts in the United States"](https://www.fhfa.gov/PolicyProgramsResearch/Research/Pages/wp1901.aspx)**
+- **[Steffen Andersen](https://www.cbs.dk/en/research/departments-and-centres/department-of-finance/staff/sanfi)**, **[Cristian Badarinza*](http://www.badarinza.net/)**, **[Lu Liu](https://www.imperial.ac.uk/people/l.liu16)**, **[Julie Marx](https://www.cbs.dk/en/research/departments-and-centres/department-of-finance/staff/phd-fellow)** and **[Tarun Ramadorai](http://www.tarunramadorai.com/)**: **["Reference dependence in the housing market"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3396506)**
 
 **May 14, 2020, 4-5 pm UK time**
 
 - **[Amine Ouazad*](https://www.ouazad.com/)** and **[Romain Rancière](https://dornsife.usc.edu/cf/econ/econ_faculty_display.cfm?Person_ID=1076297)**: **["Market Frictions, Arbitrage, and the Capitalization of Amenities"](https://www.nber.org/papers/w25701)**
 
+**April 30, 2020, 4-5 pm UK time**
 
-**tba, 4-5 pm UK time**
+- **[Will Larson*](http://williamlarson.com/), [Jessica Shui](https://ideas.repec.org/f/psh887.html), [Morris Davis](https://www.business.rutgers.edu/faculty/morris-davis)** and **[Stephen Oliner](https://www.aei.org/profile/stephen-d-oliner/)**: **["The Price of Residential Land for Counties, ZIP codes, and Census Tracts in the United States"](https://www.fhfa.gov/PolicyProgramsResearch/Research/Pages/wp1901.aspx)**
 
-- **[Steffen Andersen](https://www.cbs.dk/en/research/departments-and-centres/department-of-finance/staff/sanfi)**, **[Cristian Badarinza*](http://www.badarinza.net/)**, **[Lu Liu](https://www.imperial.ac.uk/people/l.liu16)**, **[Julie Marx](https://www.cbs.dk/en/research/departments-and-centres/department-of-finance/staff/phd-fellow)** and **[Tarun Ramadorai](http://www.tarunramadorai.com/)**: **["Reference dependence in the housing market"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3396506)**
+**April 16, 2020, 4-5 pm UK time**
+
+- **[Matthijs Korevaar*](https://sites.google.com/view/matthijskorevaar/home)** and **[Marc Francke](https://www.uva.nl/en/profile/f/r/m.k.francke/m.k.francke.html?cb)**: **["Housing Markets in a Pandemic: Evidence from Historical Outbreaks"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3566909)**
+
+**April 2, 2020, 4-5 pm UK time**
+
+- **[Arpit Gupta*](https://www.stern.nyu.edu/faculty/bio/arpit-gupta)**, **[Stijn Van Nieuwerburgh](http://people.stern.nyu.edu/svnieuwe/)** and **[Constantine Kontokosta](https://engineering.nyu.edu/faculty/constantine-kontokosta)**: **["Take the Q Train: Value Capture of Public Infrastructure Projects"](https://www.nber.org/papers/w26789)**
 
 
 \* presenting author
