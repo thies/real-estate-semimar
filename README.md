@@ -8,12 +8,30 @@ The series is open to academics and researchers from all over the world. Junior 
 
 Do get in contact if you would like to present, attend or help organising. 
 
+
+
+**#-------------------- Call for papers: June and July slots --------------------##**
+
+We invite submissions for the seminar slots in June and July. If you'd like to present on any of the below dates, please send an  [email](mailto:carolin.schmidt@zew.de) including the title of your proposed paper, a link to the paper or an attachment, and the slot during which you'd like to present. If you're flexible, feel free to give us a preference order for all four dates.
+
+The available slots are (4.00-5.00 pm London time):
+- June 18
+- July 2
+- July 16
+- July 30 
+
+We’ll get back to you as soon as possible if your paper has been chosen for presentation. There will likely be subsequent calls for papers on a rolling basis.
+
+**#---------------------------------------------------------------------------------##**
+
+
 ### The setup
 
 This is up for debate, but for now try the following:
 
 - The seminars should be short and interactive: 20-25 minutes for the speaker (with few questions during presentation). 25 minutes of questions and discussion. 
 -  Questions will be colleceted during the presentation in a text chat. Please use the "raise hand" function in Zoom if you'd like to ask an emergency question. 
+- If you'd like to bring along coauthor(s) to the seminar, they can answer questions in the chat while you present.
 - A moderator will (try to) keep things orderly, civil and on track. 
 - We won't record the seminars. Presenters don't need to be afraid that preliminary results or comments will remain online forever.
 - Papers should be developed enough to be worth discussing - but not overcooked. Ideally, feedback should still be meaningful.
