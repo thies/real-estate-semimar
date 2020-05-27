@@ -20,6 +20,8 @@ The available slots are (4.00-5.00 pm London time):
 - July 16
 - July 30 
 
+Please submit your paper until Friday, June 5.
+
 We’ll get back to you as soon as possible if your paper has been chosen for presentation. There will likely be subsequent calls for papers on a rolling basis.
 
 **#------------------------------------------------------------------------------------------##**
