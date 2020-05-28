@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+name: Virtual Real Estate Seminar
+footer-links:
+  github: thies/real-estate-seminar
+  twitter: thieslindenthal
