@@ -17,3 +17,7 @@ Do get in contact if you would like to present, attend or help organising.
 - [Ronan Lyons](http://www.ronanlyons.com)
 - [Amine Ouazad](https://www.ouazad.com/)
 - [Dan McMillen](https://business.uic.edu/profiles/mcmillen-dan/)
+
+### Contact
+
+Thies Lindenthal [e-mail](mailto:htl24@cam.ac.uk)
