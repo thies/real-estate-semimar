@@ -3,187 +3,135 @@ layout: page
 title: "Hitchens"
 ---
 
-An inarguably well-designed [Jekyll](http://jekyllrb.com) theme by [Pat Dryburgh](https://patdryburgh.com).
+## Virtual Real Estate Seminars
 
-![Hitchens Preview](https://raw.githubusercontent.com/patdryburgh/hitchens/master/screenshot.png)
+As we are collectively embracing online meetings... Shall we come together for regular real estate seminars? Thursdays, fortnightly, 4-5 pm UK time?
 
-Undoubtably one of the great minds of our time, [Christopher Hitchens](https://en.wikipedia.org/wiki/Christopher_Hitchens) challenged his readers to think deeply on topics of politics, religion, war, and science. This Jekyll theme's design is inspired by the trade paperback version his book, [Arguably](https://en.wikipedia.org/wiki/Arguably), and is dedicated to his memory.
+This initiative is still very malleable. Others are working on similar ideas and we should be able to find a good setup that works for most of us. Let's get the ball rolling and work out organisational details along the way? In the end, a good seminar is nothing but an interesting paper meeting a good audience.
 
-## Quick Start
+The series is open to academics and researchers from all over the world. Junior researchers and students are very welcome.
 
-This theme is, itself, a Jekyll blog, meaning the code base you see has everything you need to run a Jekyll powered blog!
+Do get in contact if you would like to present, attend or help organising.
 
-To get started quickly, follow the instructions below:
 
-1. Click the `Fork` button at the top of [the repository](https://github.com/patdryburgh/hitchens/);
-2. Go to your forked repo's `Settings` screen;
-3. Scroll down to the `GitHub Pages` section;
-4. Under `Source`, select the `Master` branch;
-5. Hit `Save`.
 
-## Manual Installation
+**##---- Call for papers: June and July slots ----##**
 
-If you're comfortable in the command line, add this line to your Jekyll site's `Gemfile`:
+We invite submissions for the seminar slots in June and July. If you'd like to present on any of the below dates, please send an  [email](mailto:carolin.schmidt@zew.de) including the title of your proposed paper, a link to the paper or an attachment, and the slot during which you'd like to present. If you're flexible, feel free to give us a preference order for all four dates.
 
-```ruby
-gem "hitchens-theme"
-```
+The available slots are (4.00-5.00 pm London time):
+- June 18
+- July 2
+- July 16
+- July 30
 
-And add this line to your Jekyll site's `_config.yml`:
+Please submit your paper until Friday, June 5.
 
-```yaml
-theme: hitchens-theme
-```
+We’ll get back to you as soon as possible if your paper has been chosen for presentation. There will likely be subsequent calls for papers on a rolling basis.
 
-And then execute:
+**##------------##**
 
-    $ bundle
 
-Or install it yourself as:
+### The setup
 
-    $ gem install hitchens-theme
+This is up for debate, but for now try the following:
 
-## Usage
+- The seminars should be short and interactive: 20-25 minutes for the speaker (with few questions during presentation). 25 minutes of questions and discussion.
+-  Questions will be colleceted during the presentation in a text chat. Please use the "raise hand" function in Zoom if you'd like to ask an emergency question.
+- If you'd like to bring along coauthor(s) to the seminar, they can answer questions in the chat while you present.
+- A moderator will (try to) keep things orderly, civil and on track.
+- We won't record the seminars. Presenters don't need to be afraid that preliminary results or comments will remain online forever.
+- Papers should be developed enough to be worth discussing - but not overcooked. Ideally, feedback should still be meaningful.
 
-### Home Layout
+### Schedule
+\* presenting author
 
-The `home` layout presents a list of articles ordered chronologically. All articles are presented in one page, similar to a book's table of contents.
+**June 4, 2020, 4-5 pm UK time**
 
-The masthead of the home page is derived from the `title` and `description` set in your site's `_config.yml` file.
+- **[Steffen Andersen](https://www.cbs.dk/en/research/departments-and-centres/department-of-finance/staff/sanfi)**, **[Cristian Badarinza*](http://www.badarinza.net/)**, **[Lu Liu](https://www.imperial.ac.uk/people/l.liu16)**, **[Julie Marx](https://www.cbs.dk/en/research/departments-and-centres/department-of-finance/staff/phd-fellow)** and **[Tarun Ramadorai](http://www.tarunramadorai.com/)**: **["Reference dependence in the housing market"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3396506)**
 
-#### Navigation
+**May 14, 2020, 4-5 pm UK time**
 
-To include navigation in your site's masthead:
+- **[Amine Ouazad*](https://www.ouazad.com/)** and **[Romain Rancière](https://dornsife.usc.edu/cf/econ/econ_faculty_display.cfm?Person_ID=1076297)**: **["Market Frictions, Arbitrage, and the Capitalization of Amenities"](https://www.nber.org/papers/w25701)**
 
-1. Create a `_data` directory in the root of your site.
-2. Add a `menu.yml` file to the `_data` directory.
-3. Use the following format to list your menu items:
+**April 30, 2020, 4-5 pm UK time**
 
-```
-- title: About
-  url: /about.html
+- **[Will Larson*](http://williamlarson.com/), [Jessica Shui](https://ideas.repec.org/f/psh887.html), [Morris Davis](https://www.business.rutgers.edu/faculty/morris-davis)** and **[Stephen Oliner](https://www.aei.org/profile/stephen-d-oliner/)**: **["The Price of Residential Land for Counties, ZIP codes, and Census Tracts in the United States"](https://www.fhfa.gov/PolicyProgramsResearch/Research/Pages/wp1901.aspx)**
 
-- title: Source
-  url: https://github.com/patdryburgh/hitchens
-```
+**April 16, 2020, 4-5 pm UK time**
 
-Be sure to start your `url`s with a `/`.
+- **[Matthijs Korevaar*](https://sites.google.com/view/matthijskorevaar/home)** and **[Marc Francke](https://www.uva.nl/en/profile/f/r/m.k.francke/m.k.francke.html?cb)**: **["Housing Markets in a Pandemic: Evidence from Historical Outbreaks"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3566909)**
 
-#### Pagination
+**April 2, 2020, 4-5 pm UK time**
 
-To paginate your posts, add the following line to your site's `Gemfile`:
+- **[Arpit Gupta*](https://www.stern.nyu.edu/faculty/bio/arpit-gupta)**, **[Stijn Van Nieuwerburgh](http://people.stern.nyu.edu/svnieuwe/)** and **[Constantine Kontokosta](https://engineering.nyu.edu/faculty/constantine-kontokosta)**: **["Take the Q Train: Value Capture of Public Infrastructure Projects"](https://www.nber.org/papers/w26789)**
 
-```
-gem "jekyll-paginate"
-```
 
-Then, add the following lines to your site's `_config.yml` file:
+### Sign up
 
-```
-plugins:
-  - jekyll-paginate
+Participation is free and all are welcome: Academics, students, industry practitioners.
 
-paginate: 20
-paginate_path: "/page/:num/"
-```
+We will send invitations to upcoming seminars by email. To participate, sign up to our mailing list (we won't send any spam not related to this seminar series).
 
-You can set the `paginate` and `paginate_path` settings to whatever best suits you.
-
-#### Excerpts
-
-To show [excerpts](https://jekyllrb.com/docs/posts/#post-excerpts) of your blog posts on the home page, add the following settings to your site's `_config.yml` file:
-
-```
-show_excerpts: true
-```
-
-By default, excerpts that have more than 140 characters will be truncated to 20 words. In order to override the number of words you'd like to show for your excerpts, add the following setting to your site's `_config.yml` file:
-
-```
-excerpt_length: 20
-```
-
-To disable excerpt truncation entirely, simply set `excerpt_length` to `0` in your site's `_config.yml` file, like so:
-
-```
-excerpt_length: 0
-```
-
-If you do this, the theme will still respect Jekyll's `excerpt_separator` feature as [described in the Jekyll documentation](https://jekyllrb.com/docs/posts/#post-excerpts).
-
-
-#### Title-less Posts
-
-If you want to publish posts that don't have a title, add the following setting to the [front matter](https://jekyllrb.com/docs/frontmatter/) of the post:
-
-```
-title: ""
-```
-
-When you do this, the home page will display a truncated [excerpt](https://jekyllrb.com/docs/posts/#post-excerpts) of the first paragraph of your post.
-
-Note that setting `excerpt_length` in your site's `_config.yml` file will set the length of _all_ excerpts, regardless of whether the post has a title or not. For posts with a title, the excerpt will appear under the title and slightly lighter. For title-less posts, the excerpt will appear as if it were a title.
-
-### Post Layout
-
-A sparsely decorated layout designed to present long-form writing in a manner that's pleasing to read.
-
-To use the post layout, add the following to your post's [front matter](https://jekyllrb.com/docs/frontmatter/):
-
-```
-layout: post
-```
-
-### Icons
-
-The [JSON Feed spec](https://jsonfeed.org/version/1) states that feeds should include an icon. To add your icon, add the following line in your site's `_config.yml` file:
-
-```
-feed_icon: /assets/images/icon-512.png
-```
-
-Then, replace the `/assets/images/icon-512.png` file with your own image.
-
-### Credits
-
-The theme credits that appear at the bottom of each page can be turned off by including the following line in your site's `_config.yml` file:
-
-```
-hide_credits: true
-```
-
-### Search
-
-The theme uses a [custom DuckDuckGo Search Form](https://patdryburgh.com/blog/adding-a-custom-duckduckgo-search-bar-to-your-site/) that can be turned off by including the following line in your site's `_config.yml` file: 
-
-```
-hide_search: true
-```
-
-### Font
-
-I spent a good amount of time trying to identify the font used on the front cover of the trade paperback version of Arguably. Unfortunately, I failed to accurately identify the exact font used. If you happen to know what font is used on the book cover, I would appreciate you [letting me know](mailto:hello@patdryburgh.com) :)
-
-The theme includes a version of [EB Garamond](https://fonts.google.com/specimen/EB+Garamond), designed by Georg Duffner and Octavio Pardo. It's the closest alternative I could come up with that included an open license to include with the theme.
-
-A [copy of the license](https://github.com/patdryburgh/hitchens/blob/master/assets/fonts/OFL.txt) has been included in the `assets` folder and must be included with any distributions of this theme that include the EB Garamond font files.
-
-## Contributing & Requesting Features
-
-Bug reports, feature requests, and pull requests are welcome on GitHub at [https://github.com/patdryburgh/hitchens](https://github.com/patdryburgh/hitchens).
-
-This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
-
-## Development
-
-To set up your environment to develop this theme, run `bundle install`.
-
-The theme is setup just like a normal Jekyll site. To test the theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using the theme. Add pages, documents, data, etc. like normal to test the theme's contents. As you make modifications to the theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
-
-## License
-
-The code for this theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT). 
-
-The font, EB Garamond, is Copyright 2017 The EB Garamond Project Authors and licensed under the [SIL Open Font License Version 1.1](https://github.com/patdryburgh/hitchens/blob/master/assets/fonts/OFL.txt).
-
-Graphics are released to the public domain.
+<!-- Begin Mailchimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<style type="text/css">
+	#mc-embedded-subscribe-form input[type=checkbox]{display: inline; width: auto;margin-right: 10px;}
+	#mergeRow-gdpr {margin-top: 20px;}
+	#mergeRow-gdpr fieldset label {font-weight: normal;}
+	#mc-embedded-subscribe-form .mc_fieldset{border:none;min-height: 0px;padding-bottom:0px;}
+</style>
+<div id="mc_embed_signup">
+<form action="https://cam.us19.list-manage.com/subscribe/post?u=eac59a7c36910d57f484e2eb8&amp;id=45f9af550f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	<b>Subscribe</b>
+<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<div class="mc-field-group">
+	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+</label>
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+</div>
+<div class="mc-field-group">
+	<label for="mce-FNAME">First Name </label>
+	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+</div>
+<div class="mc-field-group">
+	<label for="mce-LNAME">Last Name </label>
+	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
+</div>
+<div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group">
+    <div class="content__gdpr">
+        <label>Marketing Permissions</label>
+        <p>Please select all the ways you would like to hear from Virtual Real Estate Seminar:</p>
+        <fieldset class="mc_fieldset gdprRequired mc-field-group" name="interestgroup_field">
+		<label class="checkbox subfield" for="gdpr_54522"><input type="checkbox" id="gdpr_54522" name="gdpr[54522]" value="Y" class="av-checkbox "><span>Email</span> </label>
+        </fieldset>
+        <p>You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.</p>
+    </div>
+    <div class="content__gdprLegal">
+        <p>We use Mailchimp as our marketing platform. By clicking below to subscribe, you acknowledge that your information will be transferred to Mailchimp for processing. <a href="https://mailchimp.com/legal/" target="_blank">Learn more about Mailchimp's privacy practices here.</a></p>
+    </div>
+</div>
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_eac59a7c36910d57f484e2eb8_45f9af550f" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<!--End mc_embed_signup-->
+
+
+### Support or Contact
+
+Thies Lindenthal, [email](mailto:htl24@cam.ac.uk) or [DM on twitter](https://twitter.com/thieslindenthal)
+
+![LE Image](IMG_20191118_092700.jpg)
