@@ -41,7 +41,6 @@ markdown: kramdown
 plugins:
   - jekyll-paginate
 
-brand-color: #241c15
 show_excerpts: false
 excerpt_length: 0
 paginate: 3
