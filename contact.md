@@ -1,7 +1,7 @@
 ---
 layout: page
-title: contact
+title: Contact
 ---
 
 
-If you want to reach out, contact [Thies Lindenthal](https://www.lindenthal.eu), please.
+[Thies Lindenthal](https://www.lindenthal.eu) /  [e-mail](mailto:htl24@cam.ac.uk) / [Twitter](https://twitter.com/thieslindenthal)
