@@ -16,7 +16,7 @@
 title: Virtual Real Estate Seminar
 email: htl24@cam.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  t.b.d.
+  Connecting real estate scholars around the world.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.seminar.re" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
