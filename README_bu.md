@@ -1,17 +1,12 @@
----
-layout: page
-title: "Hitchens"
----
-
 ## Virtual Real Estate Seminars
 
 As we are collectively embracing online meetings... Shall we come together for regular real estate seminars? Thursdays, fortnightly, 4-5 pm UK time?
 
 This initiative is still very malleable. Others are working on similar ideas and we should be able to find a good setup that works for most of us. Let's get the ball rolling and work out organisational details along the way? In the end, a good seminar is nothing but an interesting paper meeting a good audience.
 
-The series is open to academics and researchers from all over the world. Junior researchers and students are very welcome.
+The series is open to academics and researchers from all over the world. Junior researchers and students are very welcome. 
 
-Do get in contact if you would like to present, attend or help organising.
+Do get in contact if you would like to present, attend or help organising. 
 
 
 
@@ -23,7 +18,7 @@ The available slots are (4.00-5.00 pm London time):
 - June 18
 - July 2
 - July 16
-- July 30
+- July 30 
 
 Please submit your paper until Friday, June 5.
 
@@ -36,10 +31,10 @@ We’ll get back to you as soon as possible if your paper has been chosen for pr
 
 This is up for debate, but for now try the following:
 
-- The seminars should be short and interactive: 20-25 minutes for the speaker (with few questions during presentation). 25 minutes of questions and discussion.
--  Questions will be colleceted during the presentation in a text chat. Please use the "raise hand" function in Zoom if you'd like to ask an emergency question.
+- The seminars should be short and interactive: 20-25 minutes for the speaker (with few questions during presentation). 25 minutes of questions and discussion. 
+-  Questions will be colleceted during the presentation in a text chat. Please use the "raise hand" function in Zoom if you'd like to ask an emergency question. 
 - If you'd like to bring along coauthor(s) to the seminar, they can answer questions in the chat while you present.
-- A moderator will (try to) keep things orderly, civil and on track.
+- A moderator will (try to) keep things orderly, civil and on track. 
 - We won't record the seminars. Presenters don't need to be afraid that preliminary results or comments will remain online forever.
 - Papers should be developed enough to be worth discussing - but not overcooked. Ideally, feedback should still be meaningful.
 
