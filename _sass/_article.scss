@@ -28,8 +28,15 @@
 
 .post p:first-of-type,
 .post h2 + p {
-  text-indent: 0;
+  text-indent: 1.5em;
 }
+
+//.post p:first-of-type,
+//.post h2 + p {
+//  text-indent: 0;
+//}
+
+
 
 .post a:hover {
   background: $highlight;
