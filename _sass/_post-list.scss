@@ -48,7 +48,9 @@
 }
 
 .post-link__title + .post-link__excerpt {
-  opacity: .6;
+	font-family: $font-family;
+	font-weight: bold;
+     	opacity: .6;
 }
 
 .post-pagination {
