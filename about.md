@@ -20,4 +20,4 @@ Do get in contact if you would like to present, attend or help organising.
 
 ### Contact
 
-Thies Lindenthal [e-mail](mailto:htl24@cam.ac.uk)
+The best way to reach out is probably an [e-mail](mailto:htl24@cam.ac.uk) to Thies Lindenthal.
