@@ -168,3 +168,17 @@ figcaption {
     margin-top: 0;
   }
 }
+
+.embed-container {
+      position: relative;
+      max-width: 100%;
+      height: auto;
+}
+
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+      padding-top: 0;
+      width: 100%;
+}
+
