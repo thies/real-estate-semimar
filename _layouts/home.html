@@ -32,8 +32,29 @@ layout: default
     {% endif %}
   </h1>
 
+  <style>
+        .embed-container {
+      position: relative;
+      height: 0;
+      overflow: hidden;
+      max-width: 100%;
+      height: auto;
+    }
+
+    .embed-container iframe,
+    .embed-container object,
+    .embed-container embed {
+      position: absolute;
+      width: 100%;
+    }
+</style>
+
+
+
+<div class='embed-container'>
   <h3>Preview of next talk:</h3>
-   <iframe src="https://player.vimeo.com/video/439828778" width="504" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+   <iframe src="https://player.vimeo.com/video/439828778" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+ </div>
 
 
   {% if site.paginate and site.paginate_path %}
