@@ -5,15 +5,20 @@ author:
 categories:
 ---
 
-*organised by:*
+<div style="text-align: center;">
 
-- University of Cambridge
+<i>organised by:</i>
+
+<p>University of Cambridge</p>
  
-- University of Florida
+<p>University of Florida</p>
 
-- University of Geneva
+<p>University of Geneva</p>
 
-- National University of Singapore
+<p>National University of Singapore</p>
+
+</div>
+
 
 ---
 
