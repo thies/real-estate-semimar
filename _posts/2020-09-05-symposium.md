@@ -86,7 +86,7 @@ Discussant: Eva Steiner
 
 **Tue 29 Sep, 3-5pm CET**
 
-Registration: [https://us02web.zoom.us/webinar/register/WN\_IcdeWwH2QvyMZ65m1wJW7Q](https://us02web.zoom.us/webinar/register/WN_IcdeWwH2QvyMZ65m1wJW7Q)) |
+Registration: [https://us02web.zoom.us/webinar/register/WN\_IcdeWwH2QvyMZ65m1wJW7Q](https://us02web.zoom.us/webinar/register/WN_IcdeWwH2QvyMZ65m1wJW7Q)
 
 Chair: Joseph Ooi
 
