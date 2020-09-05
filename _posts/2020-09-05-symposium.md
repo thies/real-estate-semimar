@@ -4,6 +4,8 @@ title: 2020 Real Estate Finance and Investment Symposium
 author:
 categories:
 ---
+
+<center>
 *organised by:*
 
 - University of Cambridge
@@ -13,11 +15,13 @@ categories:
 - University of Geneva
 
 - National University of Singapore
+</center>
 
+---
 
-## Programme
+##Session 1
 
-**Session 1: Thu 24 Sep, 3-5pm CET**
+**Thu 24 Sep, 3-5pm CET**
 
 Registration: [https://us02web.zoom.us/webinar/register/WN\_d-P6-BznTjaSILzwWONgNQ](https://us02web.zoom.us/webinar/register/WN_d-P6-BznTjaSILzwWONgNQ)
 
@@ -31,7 +35,9 @@ Chair: Martin Hoesli
 ---
 
 
-**Session 2: Fri 25 Sep, 3-5pm CET**
+##Session 2
+
+**Fri 25 Sep, 3-5pm CET**
 
 Registration: [https://us02web.zoom.us/webinar/register/WN\_L-qvqZJyTtGvFHTf1g2pnw](https://us02web.zoom.us/webinar/register/WN_L-qvqZJyTtGvFHTf1g2pnw)
 
