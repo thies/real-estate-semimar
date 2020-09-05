@@ -5,7 +5,6 @@ author:
 categories:
 ---
 
-<center>
 *organised by:*
 
 - University of Cambridge
@@ -15,11 +14,14 @@ categories:
 - University of Geneva
 
 - National University of Singapore
-</center>
 
 ---
 
-##Session 1
+# PROGRAMME
+
+---
+
+## Session 1
 
 **Thu 24 Sep, 3-5pm CET**
 
@@ -35,7 +37,7 @@ Chair: Martin Hoesli
 ---
 
 
-##Session 2
+## Session 2
 
 **Fri 25 Sep, 3-5pm CET**
 
@@ -51,7 +53,9 @@ Chair: David C. Ling
 ---
 
 
-**Session 3: Mon 28 Sep, 3-5pm CET**
+## Session 3
+
+**Mon 28 Sep, 3-5pm CET**
 
 Registration: [https://us02web.zoom.us/webinar/register/WN\_0N5BhdkCTCeqZE2AixTK6Q](https://us02web.zoom.us/webinar/register/WN_0N5BhdkCTCeqZE2AixTK6Q)
 
@@ -65,7 +69,9 @@ Chair: Stanimira Milcheva
 ---
 
 
-**Session 4: Tue 29 Sep, 3-5pm CET**
+## Session 4
+
+**Tue 29 Sep, 3-5pm CET**
 
 Registration: [https://us02web.zoom.us/webinar/register/WN\_IcdeWwH2QvyMZ65m1wJW7Q](https://us02web.zoom.us/webinar/register/WN_IcdeWwH2QvyMZ65m1wJW7Q)) |
 
@@ -77,7 +83,9 @@ Chair: Joseph Ooi
 
 ---
 
-**Session 5: Thu 1 Oct, 3-5pm CET**
+## Session 5
+
+**Thu 1 Oct, 3-5pm CET**
 
 Registration: [https://us02web.zoom.us/webinar/register/WN\_RosAy3QjRNm-n-0REgAOkQ](https://us02web.zoom.us/webinar/register/WN_RosAy3QjRNm-n-0REgAOkQ)
 
