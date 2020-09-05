@@ -70,9 +70,13 @@ Registration: [https://us02web.zoom.us/webinar/register/WN\_0N5BhdkCTCeqZE2AixTK
 
 Chair: Stanimira Milcheva
  
-- Denis Gorea, Oleksiy Kryvtsov & Marianna Kudlyak: **"House Price Responses to Monetary Policy Surprises: Evidence from House Listings Data".** Discussant: Elias Oikarinen
+- Denis Gorea, Oleksiy Kryvtsov & Marianna Kudlyak:  
+**"House Price Responses to Monetary Policy Surprises: Evidence from House Listings Data".**  
+Discussant: Elias Oikarinen
 
-- Itzhak Ben-David , Pascal Towbin & Sebastian Weber: **"Expectations During the U.S. Housing Boom: Inferring Beliefs from Observables".** Discussant: Eva Steiner
+- Itzhak Ben-David , Pascal Towbin & Sebastian Weber:  
+**"Expectations During the U.S. Housing Boom: Inferring Beliefs from Observables".**  
+Discussant: Eva Steiner
 
 
 ---
@@ -86,9 +90,13 @@ Registration: [https://us02web.zoom.us/webinar/register/WN\_IcdeWwH2QvyMZ65m1wJW
 
 Chair: Joseph Ooi
 
-- Avis Devine & Erkan Yonder: **"Impact of Environmental Investments on Corporate Financial Performance: Decomposing Valuation and Cash Flow Effects".** Discussant: Franz Fuerst
+- Avis Devine & Erkan Yonder:  
+**"Impact of Environmental Investments on Corporate Financial Performance: Decomposing Valuation and Cash Flow Effects".**  
+Discussant: Franz Fuerst
 
-- Einar C. Kjenstad & Anil Kumar: **"The Effect of Real Estate Prices on Peer Firms".** Discussant: Cristian Badarinza
+- Einar C. Kjenstad & Anil Kumar:  
+**"The Effect of Real Estate Prices on Peer Firms".**  
+Discussant: Cristian Badarinza
 
 ---
 
@@ -100,7 +108,11 @@ Registration: [https://us02web.zoom.us/webinar/register/WN\_RosAy3QjRNm-n-0REgAO
 
 Chair: Thies Lindenthal
 
-- Mandi Xu, Hefan Zheng & Jing Wu: **"How Effective is the Online Real Estate Transaction Platform? Evidence from Online Judicial Housing Auctions in China".** Discussant: Dominik Rehse
+- Mandi Xu, Hefan Zheng & Jing Wu:  
+**"How Effective is the Online Real Estate Transaction Platform? Evidence from Online Judicial Housing Auctions in China"**  
+Discussant: Dominik Rehse
 
-- Felipe Dutra Calainho, Alex van de Minne, Marc Francke: **"A Machine Learning Approach to Price Indices: Applications in Real Estate".** Discussant: Andy Krause 
+- Felipe Dutra Calainho, Alex van de Minne, Marc Francke:  
+**"A Machine Learning Approach to Price Indices: Applications in Real Estate"**  
+Discussant: Andy Krause 
 
