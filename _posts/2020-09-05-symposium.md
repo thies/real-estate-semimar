@@ -43,7 +43,7 @@ Registration: [https://us02web.zoom.us/webinar/register/WN\_L-qvqZJyTtGvFHTf1g2p
 
 Chair: David C. Ling
 
-- Brent W. Ambrose, Yildiray Yildirim and Jian Zhang: *"Risk Retention and Qualified Commercial Mortgages_ Sumit Agarwal"*. Discussant: Wayne R. Archer
+- Brent W. Ambrose, Yildiray Yildirim & Jian Zhang: *"Risk Retention and Qualified Commercial Mortgages_ Sumit Agarwal"*. Discussant: Wayne R. Archer
 
 - Spencer J. Couts: "Private Real Estate Returns, Style Drift, and Procyclical Risk Taking"*. Discussant: Gianluca Marcato
 
@@ -54,9 +54,9 @@ Registration: [https://us02web.zoom.us/webinar/register/WN\_0N5BhdkCTCeqZE2AixTK
 
 Chair: Stanimira Milcheva
  
-- _"House Price Responses to Monetary Policy Surprises: Evidence from House Listings Data",_ by Denis Gorea, Oleksiy Kryvtsov and Marianna Kudlyak. Discussant: Elias Oikarinen
+- Denis Gorea, Oleksiy Kryvtsov & Marianna Kudlyak: **"House Price Responses to Monetary Policy Surprises: Evidence from House Listings Data".** Discussant: Elias Oikarinen
 
-- _"Expectations During the U.S. Housing Boom: Inferring Beliefs from Observables",_ by Itzhak Ben-David , Pascal Towbin, Sebastian Weber. Discussant: Eva Steiner
+- Itzhak Ben-David , Pascal Towbin & Sebastian Weber: **"Expectations During the U.S. Housing Boom: Inferring Beliefs from Observables".** Discussant: Eva Steiner
 
 **Session 4: Tue 29 Sep, 3-5pm CET**
 
