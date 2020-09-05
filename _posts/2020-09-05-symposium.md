@@ -8,19 +8,19 @@ categories:
 <center>
 
 
-_University of Cambridge_
+*University of Cambridge*
  
-_University of Florida_
+*University of Florida*
 
-_University of Geneva_
+*University of Geneva*
 
-_National University of Singapore_ 
+*National University of Singapore* 
 
 
 **Real Estate Finance and Investment Symposium**
 
 
-**September 24, 25, 28 and 29, 2020 and October 1, 2020**
+*September 24, 25, 28 and 29, 2020 and October 1, 2020*
 
 </center>
 
@@ -33,9 +33,9 @@ Registration: [https://us02web.zoom.us/webinar/register/WN\_d-P6-BznTjaSILzwWONg
 
 Chair: Martin Hoesli
 
-- _"Could Loss Aversion Retain on the Market? Evidence from the Hong Kong Property Market",_ by Christina Ling Li and Wayne Xinwei Wan. Discussant: Rose Neng Lai
+- Christina Ling Li & Wayne Xinwei Wan: *"Could Loss Aversion Retain on the Market? Evidence from the Hong Kong Property Market".* Discussant: Rose Neng Lai
  
-- _"Credit Risk Transfers, Moral Hazard and Risk-Retention: Implications for Markets and Public Policy",_ Rose Neng Lai and Robert Van Order. Discussant: Luis A. Lopez 
+- Rose Neng Lai & Robert Van Order: *"Credit Risk Transfers, Moral Hazard and Risk-Retention: Implications for Markets and Public Policy".* Discussant: Luis A. Lopez 
 
 
 
@@ -45,9 +45,9 @@ Registration: [https://us02web.zoom.us/webinar/register/WN\_L-qvqZJyTtGvFHTf1g2p
 
 Chair: David C. Ling
 
-- _"Risk Retention and Qualified Commercial Mortgages_ Sumit Agarwal",_ by Brent W. Ambrose, Yildiray Yildirim and Jian Zhang. Discussant: Wayne R. Archer
+- *"Risk Retention and Qualified Commercial Mortgages_ Sumit Agarwal",* by Brent W. Ambrose, Yildiray Yildirim and Jian Zhang. Discussant: Wayne R. Archer
 
-- _"Private Real Estate Returns, Style Drift, and Procyclical Risk Taking",_ by Spencer J. Couts. Discussant: Gianluca Marcato
+- *"Private Real Estate Returns, Style Drift, and Procyclical Risk Taking",* by Spencer J. Couts. Discussant: Gianluca Marcato
 
 
 **Session 3: Mon 28 Sep, 3-5pm CET**
