@@ -5,19 +5,15 @@ author:
 categories:
 ---
 
-<div style="text-align: center;">
+<center> * organised by* </center>
 
-<i>organised by:</i>
-
-<p>University of Cambridge</p>
+<center> University of Cambridge </center>
  
-<p>University of Florida</p>
+<center> University of Florida </center>
 
-<p>University of Geneva</p>
+<center> University of Geneva </center>
 
-<p>National University of Singapore</p>
-
-</div>
+<center> National University of Singapore </center>
 
 
 ---
@@ -97,5 +93,5 @@ Chair: Thies Lindenthal
 
 - Mandi Xu, Hefan Zheng & Jing Wu: **"How Effective is the Online Real Estate Transaction Platform? Evidence from Online Judicial Housing Auctions in China".** Discussant: Dominik Rehse
 
-- Felipe Dutra Calainho, Alex van de Minne, Marc Francke: **".A Machine Learning Approach to Price Indices: Applications in Real Estate".** Discussant: Andy Krause 
+- Felipe Dutra Calainho, Alex van de Minne, Marc Francke: **"A Machine Learning Approach to Price Indices: Applications in Real Estate".** Discussant: Andy Krause 
 
