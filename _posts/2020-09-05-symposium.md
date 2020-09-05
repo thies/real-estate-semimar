@@ -7,6 +7,7 @@ categories:
 
 <center>
 
+
 _University of Cambridge_
  
 _University of Florida_
@@ -14,6 +15,7 @@ _University of Florida_
 _University of Geneva_
 
 _National University of Singapore_ 
+
 
 **Real Estate Finance and Investment Symposium**
 
@@ -23,6 +25,7 @@ _National University of Singapore_
 </center>
 
 
+<div style="text-align: left"> 
 
 **PROGRAMME**
 
@@ -65,7 +68,7 @@ Registration: [https://us02web.zoom.us/webinar/register/WN\_IcdeWwH2QvyMZ65m1wJW
 
 Chair: Joseph Ooi
 
-- _"Impact of Environmental Investments on Corporate Financial Performance - Decomposing Valuation and Cash Flow Effects",_ by Avis Devine and Erkan Yonder. Discussant: Franz Fuerst
+- _"Impact of Environmental Investments on Corporate Financial Performance: Decomposing Valuation and Cash Flow Effects",_ by Avis Devine and Erkan Yonder. Discussant: Franz Fuerst
 
 - _"The Effect of Real Estate Prices on Peer Firms",_ Einar C. Kjenstad and Anil Kumar. Discussant: Cristian Badarinza
 
@@ -80,3 +83,4 @@ Chair: Thies Lindenthal
 
 - _"A Machine Learning Approach to Price Indices: Applications in Real Estate"_ by Felipe Dutra Calainho, Alex van de Minne, Marc Francke. Discussant: Andy Krause 
 
+</div>
