@@ -25,8 +25,6 @@ _National University of Singapore_
 </center>
 
 
-<div style="text-align: left"> 
-
 **PROGRAMME**
 
 **Session 1: Thu 24 Sep, 3-5pm CET**
@@ -83,4 +81,3 @@ Chair: Thies Lindenthal
 
 - _"A Machine Learning Approach to Price Indices: Applications in Real Estate"_ by Felipe Dutra Calainho, Alex van de Minne, Marc Francke. Discussant: Andy Krause 
 
-</div>
