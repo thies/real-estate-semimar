@@ -5,25 +5,18 @@ author:
 categories:
 ---
 
+*organised by*
 
-
-## University of Cambridge
+- University of Cambridge
  
-## University of Florida
+- University of Florida
 
-## University of Geneva
+- University of Geneva
 
-## National University of Singapore
-
-
-# Real Estate Finance and Investment Symposium
+- National University of Singapore
 
 
-**Sep 24, 25, 28, 29 and Oct 1, 2020**
-
-
-
-## PROGRAMME
+# Programme
 
 **Session 1: Thu 24 Sep, 3-5pm CET**
 
@@ -43,9 +36,9 @@ Registration: [https://us02web.zoom.us/webinar/register/WN\_L-qvqZJyTtGvFHTf1g2p
 
 Chair: David C. Ling
 
-- Brent W. Ambrose, Yildiray Yildirim & Jian Zhang: *"Risk Retention and Qualified Commercial Mortgages_ Sumit Agarwal"*. Discussant: Wayne R. Archer
+- Sumit Agarwal, Brent W. Ambrose, Yildiray Yildirim & Jian Zhang: **"Risk Retention and Qualified Commercial Mortgages"**. Discussant: Wayne R. Archer
 
-- Spencer J. Couts: "Private Real Estate Returns, Style Drift, and Procyclical Risk Taking"*. Discussant: Gianluca Marcato
+- Spencer J. Couts: **"Private Real Estate Returns, Style Drift, and Procyclical Risk Taking".** Discussant: Gianluca Marcato
 
 
 **Session 3: Mon 28 Sep, 3-5pm CET**
@@ -58,15 +51,16 @@ Chair: Stanimira Milcheva
 
 - Itzhak Ben-David , Pascal Towbin & Sebastian Weber: **"Expectations During the U.S. Housing Boom: Inferring Beliefs from Observables".** Discussant: Eva Steiner
 
+
 **Session 4: Tue 29 Sep, 3-5pm CET**
 
 Registration: [https://us02web.zoom.us/webinar/register/WN\_IcdeWwH2QvyMZ65m1wJW7Q](https://us02web.zoom.us/webinar/register/WN_IcdeWwH2QvyMZ65m1wJW7Q)) |
 
 Chair: Joseph Ooi
 
-- _"Impact of Environmental Investments on Corporate Financial Performance: Decomposing Valuation and Cash Flow Effects",_ by Avis Devine and Erkan Yonder. Discussant: Franz Fuerst
+- Avis Devine & Erkan Yonder: **"Impact of Environmental Investments on Corporate Financial Performance: Decomposing Valuation and Cash Flow Effects".** Discussant: Franz Fuerst
 
-- _"The Effect of Real Estate Prices on Peer Firms",_ Einar C. Kjenstad and Anil Kumar. Discussant: Cristian Badarinza
+- Einar C. Kjenstad & Anil Kumar: **"The Effect of Real Estate Prices on Peer Firms".** Discussant: Cristian Badarinza
 
 
 **Session 5: Thu 1 Oct, 3-5pm CET**
@@ -75,7 +69,7 @@ Registration: [https://us02web.zoom.us/webinar/register/WN\_RosAy3QjRNm-n-0REgAO
 
 Chair: Thies Lindenthal
 
-- _"How Effective is the Online Real Estate Transaction Platform? Evidence from Online Judicial Housing Auctions in China",_ by Mandi Xu, Hefan Zheng, and Jing Wu. Discussant: Dominik Rehse
+- Mandi Xu, Hefan Zheng & Jing Wu: **"How Effective is the Online Real Estate Transaction Platform? Evidence from Online Judicial Housing Auctions in China".** Discussant: Dominik Rehse
 
-- _"A Machine Learning Approach to Price Indices: Applications in Real Estate"_ by Felipe Dutra Calainho, Alex van de Minne, Marc Francke. Discussant: Andy Krause 
+- Felipe Dutra Calainho, Alex van de Minne, Marc Francke: **".A Machine Learning Approach to Price Indices: Applications in Real Estate".** Discussant: Andy Krause 
 
