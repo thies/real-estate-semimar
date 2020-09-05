@@ -29,9 +29,13 @@ Registration: [https://us02web.zoom.us/webinar/register/WN\_d-P6-BznTjaSILzwWONg
 
 Chair: Martin Hoesli
 
-- Christina Ling Li & Wayne Xinwei Wan: **"Could Loss Aversion Retain on the Market? Evidence from the Hong Kong Property Market".** Discussant: Rose Neng Lai
+- Christina Ling Li & Wayne Xinwei Wan:  
+**"Could Loss Aversion Retain on the Market? Evidence from the Hong Kong Property Market"**   
+Discussant: Rose Neng Lai
  
-- Rose Neng Lai & Robert Van Order: **"Credit Risk Transfers, Moral Hazard and Risk-Retention: Implications for Markets and Public Policy".** Discussant: Luis A. Lopez 
+- Rose Neng Lai & Robert Van Order:  
+**"Credit Risk Transfers, Moral Hazard and Risk-Retention: Implications for Markets and Public Policy".**  
+Discussant: Luis A. Lopez 
 
 
 ---
@@ -45,9 +49,13 @@ Registration: [https://us02web.zoom.us/webinar/register/WN\_L-qvqZJyTtGvFHTf1g2p
 
 Chair: David C. Ling
 
-- Sumit Agarwal, Brent W. Ambrose, Yildiray Yildirim & Jian Zhang: **"Risk Retention and Qualified Commercial Mortgages"**. Discussant: Wayne R. Archer
+- Sumit Agarwal, Brent W. Ambrose, Yildiray Yildirim & Jian Zhang:  
+**"Risk Retention and Qualified Commercial Mortgages"**  
+Discussant: Wayne R. Archer
 
-- Spencer J. Couts: **"Private Real Estate Returns, Style Drift, and Procyclical Risk Taking".** Discussant: Gianluca Marcato
+- Spencer J. Couts:  
+**"Private Real Estate Returns, Style Drift, and Procyclical Risk Taking"**  
+Discussant: Gianluca Marcato
 
 
 ---
