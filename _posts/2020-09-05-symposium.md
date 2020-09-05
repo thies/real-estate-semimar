@@ -7,10 +7,13 @@ categories:
 
 <center>
 
- _University of Cambridge_
- _University of Florida_
- _University of Geneva_
- _National University of Singapore_ 
+_University of Cambridge_
+ 
+_University of Florida_
+
+_University of Geneva_
+
+_National University of Singapore_ 
 
 **Real Estate Finance and Investment Symposium**
 
