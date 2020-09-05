@@ -5,7 +5,8 @@ author:
 categories:
 ---
 
-<center> * organised by* </center>
+<center><i>organised by</i></center>
+
 
 <center> University of Cambridge </center>
  
