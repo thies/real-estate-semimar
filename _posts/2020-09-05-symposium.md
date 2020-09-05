@@ -4,8 +4,7 @@ title: 2020 Real Estate Finance and Investment Symposium
 author:
 categories:
 ---
-
-*organised by*
+*organised by:*
 
 - University of Cambridge
  
@@ -16,7 +15,7 @@ categories:
 - National University of Singapore
 
 
-# Programme
+## Programme
 
 **Session 1: Thu 24 Sep, 3-5pm CET**
 
@@ -28,6 +27,8 @@ Chair: Martin Hoesli
  
 - Rose Neng Lai & Robert Van Order: *"Credit Risk Transfers, Moral Hazard and Risk-Retention: Implications for Markets and Public Policy".* Discussant: Luis A. Lopez 
 
+
+---
 
 
 **Session 2: Fri 25 Sep, 3-5pm CET**
@@ -41,6 +42,9 @@ Chair: David C. Ling
 - Spencer J. Couts: **"Private Real Estate Returns, Style Drift, and Procyclical Risk Taking".** Discussant: Gianluca Marcato
 
 
+---
+
+
 **Session 3: Mon 28 Sep, 3-5pm CET**
 
 Registration: [https://us02web.zoom.us/webinar/register/WN\_0N5BhdkCTCeqZE2AixTK6Q](https://us02web.zoom.us/webinar/register/WN_0N5BhdkCTCeqZE2AixTK6Q)
@@ -50,6 +54,9 @@ Chair: Stanimira Milcheva
 - Denis Gorea, Oleksiy Kryvtsov & Marianna Kudlyak: **"House Price Responses to Monetary Policy Surprises: Evidence from House Listings Data".** Discussant: Elias Oikarinen
 
 - Itzhak Ben-David , Pascal Towbin & Sebastian Weber: **"Expectations During the U.S. Housing Boom: Inferring Beliefs from Observables".** Discussant: Eva Steiner
+
+
+---
 
 
 **Session 4: Tue 29 Sep, 3-5pm CET**
@@ -62,6 +69,7 @@ Chair: Joseph Ooi
 
 - Einar C. Kjenstad & Anil Kumar: **"The Effect of Real Estate Prices on Peer Firms".** Discussant: Cristian Badarinza
 
+---
 
 **Session 5: Thu 1 Oct, 3-5pm CET**
 
