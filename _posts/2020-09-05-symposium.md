@@ -5,27 +5,25 @@ author:
 categories:
 ---
 
-<center>
 
 
-*University of Cambridge*
+## University of Cambridge
  
-*University of Florida*
+## University of Florida
 
-*University of Geneva*
+## University of Geneva
 
-*National University of Singapore* 
-
-
-**Real Estate Finance and Investment Symposium**
+## National University of Singapore
 
 
-*September 24, 25, 28 and 29, 2020 and October 1, 2020*
-
-</center>
+# Real Estate Finance and Investment Symposium
 
 
-**PROGRAMME**
+**Sep 24, 25, 28, 29 and Oct 1, 2020**
+
+
+
+## PROGRAMME
 
 **Session 1: Thu 24 Sep, 3-5pm CET**
 
@@ -45,9 +43,9 @@ Registration: [https://us02web.zoom.us/webinar/register/WN\_L-qvqZJyTtGvFHTf1g2p
 
 Chair: David C. Ling
 
-- *"Risk Retention and Qualified Commercial Mortgages_ Sumit Agarwal",* by Brent W. Ambrose, Yildiray Yildirim and Jian Zhang. Discussant: Wayne R. Archer
+- Brent W. Ambrose, Yildiray Yildirim and Jian Zhang: *"Risk Retention and Qualified Commercial Mortgages_ Sumit Agarwal"*. Discussant: Wayne R. Archer
 
-- *"Private Real Estate Returns, Style Drift, and Procyclical Risk Taking",* by Spencer J. Couts. Discussant: Gianluca Marcato
+- Spencer J. Couts: "Private Real Estate Returns, Style Drift, and Procyclical Risk Taking"*. Discussant: Gianluca Marcato
 
 
 **Session 3: Mon 28 Sep, 3-5pm CET**
