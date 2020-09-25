@@ -33,11 +33,15 @@ Chair: Martin Hoesli
 - Christina Ling Li & Wayne Xinwei Wan:  
 **"Could Loss Aversion Retain on the Market? Evidence from the Hong Kong Property Market"**   
 Discussant: Rose Neng Lai
+
+<iframe src="https://player.vimeo.com/video/461544027" width="640" height="340" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
  
 - Rose Neng Lai & Robert Van Order:  
 **"Credit Risk Transfers, Moral Hazard and Risk-Retention: Implications for Markets and Public Policy".**  
 Discussant: Luis A. Lopez 
 
+<iframe src="https://player.vimeo.com/video/461576764" width="640" height="340" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ---
 
