@@ -62,6 +62,7 @@ Discussant: Wayne R. Archer
 **"Private Real Estate Returns, Style Drift, and Procyclical Risk Taking"**  
 Discussant: Gianluca Marcato
 
+<iframe src="https://player.vimeo.com/video/463223588" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ---
 
@@ -103,6 +104,8 @@ Discussant: Franz Fuerst
 - Einar C. Kjenstad & Anil Kumar:  
 **"The Effect of Real Estate Prices on Peer Firms".**  
 Discussant: Cristian Badarinza
+
+<iframe src="https://player.vimeo.com/video/463329936" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ---
 
