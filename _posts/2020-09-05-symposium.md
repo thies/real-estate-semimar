@@ -98,6 +98,8 @@ Chair: Joseph Ooi
 **"Impact of Environmental Investments on Corporate Financial Performance: Decomposing Valuation and Cash Flow Effects".**  
 Discussant: Franz Fuerst
 
+<iframe src="https://player.vimeo.com/video/463329976" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 - Einar C. Kjenstad & Anil Kumar:  
 **"The Effect of Real Estate Prices on Peer Firms".**  
 Discussant: Cristian Badarinza
