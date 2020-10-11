@@ -121,7 +121,10 @@ Chair: Thies Lindenthal
 **"How Effective is the Online Real Estate Transaction Platform? Evidence from Online Judicial Housing Auctions in China"**  
 Discussant: Dominik Rehse
 
+<iframe src="https://player.vimeo.com/video/464233326" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 - Felipe Dutra Calainho, Alex van de Minne, Marc Francke:  
 **"A Machine Learning Approach to Price Indices: Applications in Real Estate"**  
 Discussant: Andy Krause 
 
+<iframe src="https://player.vimeo.com/video/464288323" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
